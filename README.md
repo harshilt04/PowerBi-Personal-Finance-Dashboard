@@ -1,1 +1,3 @@
 # PowerBi-Personal-Finance-Dashboard
+
+Report Link : https://app.powerbi.com/view?r=eyJrIjoiZWJmM2I4YWMtZDY1Ny00YTk4LWE1NTYtYTlmNDZkMzZmZjhhIiwidCI6ImM0MTlhMWI2LTEyMmEtNGM5MS1hYTE1LWI5NTc3ODRiZDNkNCIsImMiOjN9
